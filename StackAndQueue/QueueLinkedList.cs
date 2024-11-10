@@ -34,6 +34,6 @@ public class QueueLinkedList
             Console.WriteLine(currentNode?.Value);
             currentNode = currentNode?.Next;
         }
-        
     }
 }
+

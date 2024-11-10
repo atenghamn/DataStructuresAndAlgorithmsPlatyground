@@ -9,10 +9,5 @@ stackLinkedList.Pop();
 stackLinkedList.PrintStack();
 
 Console.WriteLine("---------- Queue ------------------");
-var queueLinkedList = new QueueLinkedList();
-queueLinkedList.Enqueue(1);
-queueLinkedList.Enqueue(2);
-queueLinkedList.Enqueue(3);
-queueLinkedList.PrintQueue();
-queueLinkedList.Dequeue();
-queueLinkedList.PrintQueue();
+
+
